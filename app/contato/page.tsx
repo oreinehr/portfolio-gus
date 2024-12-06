@@ -82,18 +82,10 @@ export default function Contact() {
         <div className="mt-12">
           <h2 className="text-2xl font-bold mb-4 text-center">Redes Sociais</h2>
           <div className="flex justify-center space-x-6">
-            <a href="#" className="text-gray-600 hover:text-blue-600">
-              <Facebook size={24} />
-            </a>
-            <a href="#" className="text-gray-600 hover:text-blue-600">
+            <a href="https://www.instagram.com/gustavoreinehr?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" className="text-gray-600 hover:text-blue-600">
               <Instagram size={24} />
             </a>
-            <a href="#" className="text-gray-600 hover:text-blue-600">
-              <Twitter size={24} />
-            </a>
-            <a href="#" className="text-gray-600 hover:text-blue-600">
-              <Linkedin size={24} />
-            </a>
+           
           </div>
         </div>
       </div>
