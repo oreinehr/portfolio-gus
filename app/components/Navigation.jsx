@@ -3,6 +3,7 @@
 import { useState } from 'react'
 import Link from 'next/link'
 import { Menu, X } from 'lucide-react'
+import logo from '../fonts/logo.png'
 
 const Navigation = () => {
   const [isOpen, setIsOpen] = useState(false)
@@ -13,7 +14,7 @@ const Navigation = () => {
         <div className="flex items-center justify-between h-16">
           <div className="flex items-center">
             <Link href="/" className="text-xl font-bold text-gray-900">
-              Gustavo Reinehr
+              <img src={logo.src} alt="Logo" className="w-20" />
             </Link>
           </div>
           <div className="hidden md:block">
