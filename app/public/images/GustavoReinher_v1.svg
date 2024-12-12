@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1477.76 325.27">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: .1em;
+        fill: white
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        font-family: RaveoDisplay-DisplayRegular, 'Raveo Display';
+       fill: white
+      }
+
+      .cls-5 {
+        font-size: 48px;
+        fill: white
+      }
+
+      .cls-6 {
+        font-size: 110px;
+        fill: white
+        
+      }
+
+      .cls-7 {
+        fill: none;
+        stroke: #ffffff;
+        stroke-miterlimit: 10;
+        stroke-width: 5px;
+      }
+
+      .cls-8 {
+        font-family: EtudeNoire, 'Etude Noire';
+        letter-spacing: .06em;
+        fill: white
+      }
+
+      .cls-9 {
+        letter-spacing: .17em;
+        fill: white
+      }
+
+      .cls-9, .cls-10, .cls-11, .cls-12, .cls-13 {
+        font-family: SpaceGrotesk-Regular, 'Space Grotesk';
+        font-variation-settings: 'wght' 400;
+        fill: white
+
+      }
+
+      .cls-10, .cls-14 {
+        letter-spacing: .2em;
+         fill: white
+      }
+
+      .cls-11 {
+        letter-spacing: .2em;
+         fill: white
+      }
+
+      .cls-12 {
+        letter-spacing: .2em;
+         fill: white
+      }
+
+      .cls-15, .cls-14 {
+        font-family: EtudeNoire-Bold, 'Etude Noire';
+        font-weight: 700;
+        fill: white
+      }
+
+      .cls-15, .cls-2 {
+        letter-spacing: .2em;
+         fill: white
+      }
+
+      .cls-13 {
+        letter-spacing: .17em;
+      }
+
+      .cls-3 {
+        letter-spacing: .17em;
+      }
+
+      .cls-4 {
+        letter-spacing: .19em;
+      }
+    </style>
+  </defs>
+  <text class="cls-6" transform="translate(91.89 184.08)"><tspan class="cls-2" x="0" y="0">GU</tspan><tspan class="cls-4" x="202.77" y="0">S</tspan><tspan class="cls-1" x="290.73" y="0">TA</tspan><tspan class="cls-3" x="452.25" y="0">V</tspan><tspan class="cls-2" x="542.4" y="0">O</tspan><tspan class="cls-15" x="646.8" y="0"> </tspan><tspan class="cls-2" x="707.9" y="0">REINEHR</tspan></text>
+  <polyline class="cls-7" points="1170.19 250.35 1447.66 250.35 1447.66 47.94 30.1 47.94 30.1 250.35 312.42 250.35"/>
+  <text class="cls-5" transform="translate(372.98 266.15)"><tspan class="cls-12" x="0" y="0">FILM </tspan><tspan class="cls-8" x="165.69" y="0">&amp;</tspan><tspan class="cls-14" x="199.42" y="0"> </tspan><tspan class="cls-11" x="226.08" y="0">CONTEN</tspan><tspan class="cls-9" x="465.6" y="0">T</tspan><tspan class="cls-10" x="502.17" y="0" xml:space="preserve"> EDI</tspan><tspan class="cls-13" x="623.47" y="0">T</tspan><tspan class="cls-11" x="659.8" y="0">OR</tspan></text>
+</svg>

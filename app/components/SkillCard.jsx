@@ -1,7 +1,6 @@
 "use client";
 
 import { Card } from '@/components/ui/card';
-import PropTypes from 'prop-types';
 
 export function SkillCard({ icon: Icon, title, description }) {
   return (
@@ -12,9 +11,3 @@ export function SkillCard({ icon: Icon, title, description }) {
     </Card>
   );
 }
-
-SkillCard.propTypes = {
-  icon: PropTypes.elementType.isRequired,
-  title: PropTypes.string.isRequired,
-  description: PropTypes.string.isRequired
-};
